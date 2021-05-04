@@ -1,2 +1,2 @@
 # C#_practice
- Java concepts and practice 
+ C# concepts and practice 
