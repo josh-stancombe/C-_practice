@@ -5,3 +5,4 @@
 3. Architect Aritmetic (methods)
 4. Exquisite Corpse (methods)
 5. Caesar Cipher (arrays & loops)
+6. True or False (arrays & loops)
