@@ -6,3 +6,4 @@
 4. Exquisite Corpse (methods)
 5. Caesar Cipher (arrays & loops)
 6. True or False (arrays & loops)
+7. Dating Profile (objects and classes)
