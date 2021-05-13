@@ -7,3 +7,4 @@
 5. Caesar Cipher (arrays & loops)
 6. True or False (arrays & loops)
 7. Dating Profile (objects and classes)
+8. Rover Control Center (references, inheritance & interfaces)
